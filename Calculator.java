@@ -320,5 +320,5 @@ public class Calculator extends Application {
         stage.setTitle("My Simple Calculator");
         stage.initStyle(StageStyle.UNDECORATED);
         stage.show();
-    }fv
+    }
 }
