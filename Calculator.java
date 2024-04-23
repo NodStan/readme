@@ -322,4 +322,4 @@ public class Calculator extends Application {
         stage.initStyle(StageStyle.UNDECORATED);
         stage.show();
     }
-}u
+}ud
